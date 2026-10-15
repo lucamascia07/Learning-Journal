@@ -15,13 +15,13 @@
 - Reliability - Can it overall be depended on to make decisions
 
 
-##Apply Task 1 IBM HR Analytics dataset from Kaggle Questions and Tasks:
+## Apply Task 1 IBM HR Analytics dataset from Kaggle Questions and Tasks:
 
-###a. What is the usability score of this dataset and is it “good” or “bad”?
+### a. What is the usability score of this dataset and is it “good” or “bad”?
 
 It is 8.82 which is a good rating.
 
-###b. How is this usability score calculated?
+### b. How is this usability score calculated?
 
 It is calculated by Kaggle based off 3 main sections of competness credibility and compatibility and within them it has checklists and will take an overall percentage of them. They are: 
 Completeness 
@@ -41,15 +41,15 @@ File Format
 File Description
 Column Description
 
-###c. What are the two credibility issues with this dataset and why are they important?
+### c. What are the two credibility issues with this dataset and why are they important?
 
 It is Source/Provenance and Update Frequency that are being flagged. Source and provenance is important to give an understanding of the data's origin to understand how trustworthy and accurate it is and trace back any potential errors. Update frequency is important to make sure there isn't any outdated data and it may suggest that there is incomplete data or it may not be relevant due to it not being updated regularly. It also could signal a lack of active maintenance of the dataset.
 
-###d. How many columns does this dataset have?
+### d. How many columns does this dataset have?
 
 It has 35 columns being Age, Attrition, BusinessTravel, DailyRate, Department, DistanceFromHome, Education, EducationField, EmployeeCount, EmployeeNumber, EnvironmentSatisfaction, Gender, HourlyRate, JobInvolvement, JobLevel, JobRole, JobSatisfaction, MaritalStatus, MonthlyIncome, MonthlyRate, NumCompaniesWorked, Over18, OverTime, PercentSalaryHike, PerformanceRating, RelationshipSatisfaction, StandardHours, StockOptionLevel, TotalWorkingYears, TrainingTimesLastYear, WorkLifeBalance, YearsAtCompany, YearsInCurrentRole, YearsSinceLastPromotion and YearsWithCurrManager
 
-###e. What is the licence for this dataset and how would you summarise the usage rights in your own words?
+### e. What is the licence for this dataset and how would you summarise the usage rights in your own words?
 
 The licence is the Database Contents License (DbCL) v1.0, published by Open Data Commons. It allows you to use, copy and modify the datasets contents including for commercial purposes provided you follow the conditions of the license 
 
