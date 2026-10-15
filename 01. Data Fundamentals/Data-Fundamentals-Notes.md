@@ -3,7 +3,7 @@
 ## Learning Notes
 
 ### Topic 1: Fundamentals of the Data-Driven Enterprise
-####The 5 V's of data characteristics are:
+#### The 5 V's of data characteristics are:
 - Volume - Sheer size of the data
 - Variety - Refers to the different types of data and their sources
 - Velocity - Speed at which data is gathered/generated
