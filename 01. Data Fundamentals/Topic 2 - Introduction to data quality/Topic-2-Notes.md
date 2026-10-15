@@ -103,7 +103,7 @@ B4: Takes personal responsibility towards net zero and prioritises environmental
 
 ## Apply Task 2 
 
-<img width="943" height="1000" alt="image" src="https://github.com/user-attachments/assets/ae38091d-567f-482d-ba26-58d08599c2a0" />
+<img width="1200" height="1000" alt="image" src="https://github.com/user-attachments/assets/ae38091d-567f-482d-ba26-58d08599c2a0" />
 
 Arrange a shadowing session with a data engineer or a subject matter expert in your organisation to observe how they leverage automated data quality management tools in their workflow.
 
