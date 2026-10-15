@@ -99,6 +99,36 @@ There could be missing values or duplicate values and mainly just confusion arou
 #### How would you validate the 'EmployeeNumber' column and what needs paying special attention to?
 I would validate it by checking they are all numeric , unique and not NULL and in particular if there are any duplicate values.
 
+I completed the remaining tasks by preparing the IBM HR Analytics dataset in Excel, retaining only the EmployeeNumber and JobSatisfaction columns. I added Metadata, Schema and Provenance sheets to document the dataset and its structure. I have uploaded the file to the learning journal Excel file: Employee Job Satisfaction Dataset.
+
+#### This task helped me build on the following KSB'S.:
+
+Knowledge
+
+K4: Frameworks for data quality, covering dimensions such as accuracy, completeness, consistency, timeliness, and accessibility.
+
+K5: The inherent risks of data such as incomplete data, ethical data sources and how to ensure data quality.
+
+K7: Principles of sustainable data products and organisational responsibilities for environmental social governance.
+
+K11: Data and information security standards, ethical practices, policies and procedures relevant to data management activities such as data lineage and metadata management.
+
+K16: Principles of data, including open and public data, administrative data, and research data including the value of external data sources that can be used to enrich internal data.
+
+Skills
+
+S5: Produce and maintain technical documentation explaining the data product, that meets organisational, technical and non-technical user requirements, retaining critical information.
+
+S6: Systematically clean, validate, and describe data at all stages of extract, transform, load (ETL).
+
+S26: Identify data quality metrics and track them to ensure the quality, accuracy and reliability of the data product.
+
+Behaviours
+
+B3: Quality focus that promotes continuous improvement utilising peer review techniques, innovation and creativity to the data system development process to improve processes and address business challenges.
+
+B4: Takes personal responsibility towards net zero and prioritises environmental sustainability outcomes in how they carry out the duties of their role.
+
 
 
 
