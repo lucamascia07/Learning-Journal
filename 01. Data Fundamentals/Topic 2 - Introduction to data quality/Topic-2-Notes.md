@@ -71,7 +71,7 @@ There could be missing values or duplicate values and mainly just confusion arou
 ### How would you validate the 'EmployeeNumber' column and what needs paying special attention to?
 I would validate it by checking they are all numeric , unique and not NULL and in particular if there are any duplicate values.
 
-I completed the remaining tasks by preparing the IBM HR Analytics dataset in Excel, retaining only the EmployeeNumber and JobSatisfaction columns. I added Metadata, Schema and Provenance sheets to document the dataset and its structure. I have uploaded the file to the learning journal Excel file: Employee Job Satisfaction Dataset.
+I completed the remaining tasks by preparing the IBM HR Analytics dataset in Excel, retaining only the EmployeeNumber and JobSatisfaction columns. I added Metadata, Schema and Provenance sheets to document the dataset and its structure. I have uploaded the file to the learning journal. Excel file name: Employee Job Satisfaction Dataset.
 
 ### This task helped me build on the following KSB'S.:
 
