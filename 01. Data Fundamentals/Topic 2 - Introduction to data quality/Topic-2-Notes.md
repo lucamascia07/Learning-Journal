@@ -103,5 +103,16 @@ B4: Takes personal responsibility towards net zero and prioritises environmental
 
 ## Apply Task 2 
 
-<img width="943" height="2000" alt="image" src="https://github.com/user-attachments/assets/ae38091d-567f-482d-ba26-58d08599c2a0" />
+<img width="943" height="1000" alt="image" src="https://github.com/user-attachments/assets/ae38091d-567f-482d-ba26-58d08599c2a0" />
+
+Arrange a shadowing session with a data engineer or a subject matter expert in your organisation to observe how they leverage automated data quality management tools in their workflow.
+
+Gain info on: 
+
+Specific use cases and scenarios where automated data quality management tools are employed
+Benefits and challenges of using these tools
+Integration with existing data pipelines or workflows
+Utilise internal resources like wikis, documentation, and knowledge bases to gather insights on automated data quality management within your organisation
+
+
 
