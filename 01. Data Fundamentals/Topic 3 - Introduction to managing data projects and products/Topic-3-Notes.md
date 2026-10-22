@@ -45,6 +45,9 @@ DMAIC
 
 To identify the root cause of the defects. The basic concept is to ask “why?” five times to dig deep into the root of a problem. The logic behind it is that in the first few questions you will find one of the causes of the problem, and by the 5th question you will see the process failure behind that problem. 
 
+## What is Minimum Viable Product?
+The simplest version of a product that includes enough features to be useful and gather feedback from users before further improvements are made.
+
 
 ## Topic 3 Apply Task 1:
 
