@@ -39,3 +39,8 @@ My Flowchart built in Lucidchart:
 
 <img width="748" height="848" alt="image" src="https://github.com/user-attachments/assets/871a4527-3642-495b-a114-88bbe8661570" />
 
+
+## What is TOGAF and why do we use it?
+TOGAF (The Open Group Architecture Framework) is a framework used to plan, design, implement and manage an organisation’s IT systems in line with its business goals. It is useful because it provides a common structure and language for different teams to communicate effectively, align technology with business needs and ensure systems work together efficiently.
+
+
