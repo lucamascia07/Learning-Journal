@@ -27,7 +27,7 @@ A data mart is a focused subset of a data warehouse, tailored to serve the speci
 
 ## Collaborate activity 
 
-Scenario:  NextGen Fitness is a company that provides personalised fitness tracking and coaching services through a mobile app and wearable devices.  The system collects data from the wearable devices, stores it in a database, and uses machine learning algorithms to provide personalised coaching advice to users.  The system also allows users to connect with personal trainers for additional guidance and support. Instructions: 1. Create a basic flowchart or architecture diagram for the NextGen Fitness system 2. Include the following actors:  • Users (fitness enthusiasts) • Personal trainers • Wearable devices • Mobile app • Machine learning algorithms 3. Include the following containers:  • User interface • Data storage • Data processing • Personalised coaching module • Personal trainer communication module 4. Show the flow of data and interactions between the actors and containers 
+Scenario:  NextGen Fitness is a company that provides personalised fitness tracking and coaching services through a mobile app and wearable devices.  The system collects data from the wearable devices, stores it in a database, and uses machine learning algorithms to provide personalised coaching advice to users.  The system also allows users to connect with personal trainers for additional guidance and support.
 
 Instructions: 
 - Create a basic flowchart or architecture diagram for the NextGen Fitness system
