@@ -21,5 +21,7 @@ A data mart is a focused subset of a data warehouse, tailored to serve the speci
 
 Different Flowchart shapes and their meaning:
 
-<img width="869" height="321" alt="image" src="https://github.com/user-attachments/assets/8e4f5631-5e88-4505-9868-deb2a948d797" />
+
+<img width="858" height="314" alt="image" src="https://github.com/user-attachments/assets/edd46908-8231-4b8a-b044-ee375da2cdcb" />
+
 
