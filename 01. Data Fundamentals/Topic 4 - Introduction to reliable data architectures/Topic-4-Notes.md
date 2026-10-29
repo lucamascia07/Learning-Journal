@@ -31,11 +31,11 @@ Scenario:  NextGen Fitness is a company that provides personalised fitness track
 
 Instructions: 
 - Create a basic flowchart or architecture diagram for the NextGen Fitness system
--  Include the following actors:  • Users (fitness enthusiasts) • Personal trainers • Wearable devices • Mobile app • Machine learning algorithms
--  Include the following containers:  • User interface • Data storage • Data processing • Personalised coaching module • Personal trainer communication module
+-  Include the following actors: Users (fitness enthusiasts), Personal trainers, Wearable devices, Mobile app and Machine learning algorithms
+-  Include the following containers: User interface, Data storage, Data processing, Personalised coaching module and Personal trainer communication module
 -  Show the flow of data and interactions between the actors and containers
 
-My Flowchart:
+My Flowchart built in Lucidchart:
 
 <img width="748" height="848" alt="image" src="https://github.com/user-attachments/assets/871a4527-3642-495b-a114-88bbe8661570" />
 
