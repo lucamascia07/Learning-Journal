@@ -19,7 +19,7 @@ A data warehouse is a centralized relational database that stores structured and
 ## What is a Data Mart?
 A data mart is a focused subset of a data warehouse, tailored to serve the specific needs of a particular business unit, department or user group. By concentrating on a single subject area, data marts provide streamlined access to relevant data, enhancing performance and user autonomy.
 
-Different Flowchart shapes and their meaning:
+## Different Flowchart shapes and their meaning:
 
 
 <img width="858" height="314" alt="image" src="https://github.com/user-attachments/assets/edd46908-8231-4b8a-b044-ee375da2cdcb" />
