@@ -7,5 +7,6 @@
 3. For the Data Control Tower Power BI observations I do at SJP, Parquet could efficiently store structured data for analysis and reporting, while key-value stores could enable quick access to individual data quality records; I could seek further insights from the data engineer or stakeholder responsible for the Data Control Tower.
 4. For a data migration project at SJP, a data lake could store raw data from multiple sources, a data warehouse could organise it for reporting and analysis, and an ODS could provide up-to-date operational data; I could seek further insight from a data engineer or solution architect.
 5. SJP manages multiple relational databases across its systems, and improving how customer and financial data is structured through normalisation could reduce duplication, improve data quality and support more accurate reporting; I could discuss potential improvements with a data engineer or the data platform team
+6. SJP primarily uses cloud-based storage to manage sensitive customer, financial and business data; a hybrid cloud approach could improve scalability, accessibility and flexibility while maintaining security and regulatory compliance, although it introduces additional costs and security considerations, which I could discuss with a data engineer or IT architect.
 
 
