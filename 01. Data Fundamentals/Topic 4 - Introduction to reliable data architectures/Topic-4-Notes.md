@@ -44,3 +44,11 @@ My Flowchart built in Lucidchart:
 TOGAF (The Open Group Architecture Framework) is a framework used to plan, design, implement and manage an organisation’s IT systems in line with its business goals. It is useful because it provides a common structure and language for different teams to communicate effectively, align technology with business needs and ensure systems work together efficiently.
 
 
+## Apply Task 1:
+
+I picked Scenario 2 to make a use case diagram via Lucidchart: 
+Scenario 2: Financial Institution's Customer Data Platform A large financial institution aims to develop a comprehensive customer data platform to enhance its services and personalise customer experiences. The platform should integrate data from multiple sources, including core banking systems, credit card transactions, investment portfolios, and customer interactions across various channels (e.g., online banking, mobile apps, and branch visits). The system should enable the bank to gain a 360-degree view of each customer, support targeted marketing campaigns, and facilitate risk assessment and fraud detection. 
+
+<img width="1072" height="733" alt="image" src="https://github.com/user-attachments/assets/4a2832e6-b85e-4ffc-bd16-8c9f09bd74e5" />
+
+
