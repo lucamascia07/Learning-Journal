@@ -53,3 +53,86 @@ Scenario 2: Financial Institution's Customer Data Platform A large financial ins
 <img width="1072" height="733" alt="image" src="https://github.com/user-attachments/assets/4a2832e6-b85e-4ffc-bd16-8c9f09bd74e5" />
 
 
+## Apply Task 2:
+
+### Applying TOGAF Principles to Data Governance During a Matillion-to-dbt Migration.
+
+#### High-level data governance plan:
+
+1. Purpose
+
+The aim of this plan is to maintain data quality and consistency during SJP's migration from Matillion to dbt. TOGAF principles will be used to establish clear responsibilities, standardise processes and ensure migrated data remains accurate and reliable.
+
+2. Governance structure and responsibilities
+
+Data Governance Lead: Oversees governance standards and resolves major issues.
+
+Data Owner: Ensures data meets business requirements and approves its use.
+
+Data Steward: Maintains data definitions, documentation and quality standards.
+
+Data Engineer: Rebuilds Matillion transformations in dbt and carries out data quality tests.
+
+Technical Lead: Reviews the technical implementation and approves deployment.
+
+3. Key governance policies
+
+Data quality: Ensure migrated data is accurate, complete and consistent.
+
+Data ownership: Assign responsibility for each important data asset.
+
+Documentation: Record data definitions, transformations and dependencies.
+
+Change management: Review and test changes before they are implemented.
+
+Issue management: Record and investigate data quality problems before deployment.
+
+4. Decision-making process
+
+Each migrated data model should follow a consistent process:
+
+Identify and document the existing Matillion transformation.
+
+Rebuild the transformation in dbt.
+
+Run data quality tests and compare the results.
+
+Investigate and correct any unexpected differences.
+
+Obtain approval from the Data Owner and Technical Lead.
+
+Deploy the model and monitor its ongoing quality.
+
+Models should not be deployed until the required checks and approvals have been completed.
+
+5. Applying TOGAF
+
+The TOGAF Architecture Development Method (ADM) provides a structured approach to the migration:
+
+Preliminary: Establish governance principles and standards.
+
+Phase A: Define the migration objectives.
+
+Phase B: Identify business requirements and responsibilities.
+
+Phase C: Understand data assets and transformations.
+
+Phase D: Consider the technology supporting the migration.
+
+Phases E–F: Plan and implement governance improvements.
+
+Phase G: Ensure the migration follows agreed standards.
+
+Phase H: Monitor and improve the new environment.
+
+6. Monitoring
+
+The framework should be reviewed regularly by monitoring data quality test results, migration errors, documentation and outstanding issues. This helps ensure that data remains reliable after migration.
+
+#### Visual Representation:
+
+<img width="272" height="769" alt="image" src="https://github.com/user-attachments/assets/9c18d969-46e4-4796-99df-0aca84f8f045" />
+
+
+
+
