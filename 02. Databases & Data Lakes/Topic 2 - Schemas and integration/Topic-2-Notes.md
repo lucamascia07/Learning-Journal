@@ -1,4 +1,4 @@
-#  Topic 2 - Schemas and integration:
+#  Topic 2 - Schemas and integration
 
 ## Prepare E-Learning:
 
