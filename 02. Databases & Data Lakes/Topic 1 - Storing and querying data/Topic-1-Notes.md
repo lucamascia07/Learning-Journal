@@ -1,4 +1,4 @@
-# Topic 1: Topic 1 - Storing and querying data
+# Topic 1 - Storing and querying data
 
 ## Prepare E-Learning:
 
