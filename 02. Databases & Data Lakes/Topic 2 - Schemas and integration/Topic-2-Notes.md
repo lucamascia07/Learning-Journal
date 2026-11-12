@@ -34,3 +34,34 @@ Second Normal Form (2NF) needs to be in 1NF and doesn't have any partial depende
 Third Normal Form (3NF) needs to be in 2NF and contains no non-key or transitive dependencies. It is where a field relies on another field instead of the primary key. This ensures high data integrity because every fact is stored in one place, though joining multiple tables together can slightly slow down read queries.
 
 In conclusion, Third Normal Form (3NF) is the best choice for most everyday applications. It provides the best balance between preventing data errors and keeping table structures manageable.
+
+### SQL Building Blocks
+
+SQL commands are divided into five main categories:
+
+- **DDL (Data Definition Language)** – Defines and manages the structure of database objects, such as tables and schemas.
+  - `CREATE` – Creates new database objects.
+  - `ALTER` – Modifies existing database objects.
+  - `DROP` – Deletes database objects.
+  - `TRUNCATE` – Removes all records from a table while retaining its structure.
+
+- **DML (Data Manipulation Language)** – Used to modify the data stored within database tables.
+  - `INSERT` – Adds new records.
+  - `UPDATE` – Modifies existing records.
+  - `DELETE` – Removes records.
+
+- **TCL (Transaction Control Language)** – Manages transactions to ensure database operations are handled correctly.
+  - `COMMIT` – Saves changes made during a transaction.
+  - `SAVEPOINT` – Creates a point within a transaction that you can roll back to.
+  - `ROLLBACK` – Reverses changes made during a transaction.
+
+- **DQL (Data Query Language)** – Used to retrieve and query data from database tables.
+  - `SELECT` – Retrieves data, often using filters (`WHERE`), sorting (`ORDER BY`) and grouping (`GROUP BY`).
+
+- **DCL (Data Control Language)** – Manages user access and permissions within a database.
+  - `GRANT` – Gives users permissions to access or modify database objects.
+  - `REVOKE` – Removes previously granted permissions.
+   
+
+
+
