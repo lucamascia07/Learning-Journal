@@ -15,3 +15,11 @@ Snowflake is not an open-source database. It is a proprietary platform developed
 Snowflake is a cloud-based platform rather than an on-premise database. Within my organisation, Snowflake is hosted on Amazon Web Services (AWS), which allows data to be stored and processed without the need for physical database servers managed by the company and allows SJP to scale storage and computing resources independently and avoid maintaining physical database servers.
 
 Internal training has been accessible during my apprenticeship for example having access to learning materials like Snowflake warehousing courses provided to me by my rotation manager for Data Engineering, Snowflake/Openflow workshops and webinars, LOTS of documentation via confluence, and guidance from senior colleagues.
+
+## Webinar Notes:
+
+### What is a Star Schema?
+A database structure in which a central fact table is surrounded by dimension tables, resembling a star. The fact table contains measurable quantities and foreign keys from dimension tables that describe the data's context. Star schemas typically offer faster query performance for large datasets due to fewer joins.
+
+### What is a Snowflake Schema?
+An extension of the star schema where dimension tables are normalized into multiple related tables, resulting in a more complex database structure that resembles a snowflake with branches radiating from a central node. Snowflake schemas provide higher data integrity through normalization, which can simplify maintenance and reduce errors.
