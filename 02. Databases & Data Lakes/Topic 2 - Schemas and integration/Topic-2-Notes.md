@@ -61,6 +61,25 @@ SQL commands are divided into five main categories:
 - **DCL (Data Control Language)** – Manages user access and permissions within a database.
   - `GRANT` – Gives users permissions to access or modify database objects.
   - `REVOKE` – Removes previously granted permissions.
+
+
+### SQL Standards and Database Comparison
+
+Different database systems use SQL, but each has its own variations and extensions. This means SQL queries may need changing when moving applications between database systems.
+
+- **Amazon Redshift:** Uses a PostgreSQL-derived SQL dialect but has differences and is optimised for analytical queries and large datasets (OLAP). It is highly scalable and uses pay-as-you-go pricing, making it suitable for data warehousing.
+
+- **PostgreSQL:** Has strong SQL standard support and offers a wide range of features. It is open-source and free to use, highly scalable and suitable for general-purpose applications. Its flexibility makes it a popular choice for developers.
+
+- **MySQL:** Supports standard SQL but also has its own extensions and SQL modes. It is open-source and generally cost-effective, making it popular for web applications. Some queries may need adjusting when moving to other database systems.
+
+- **Microsoft SQL Server:** Uses T-SQL (Transact-SQL), which extends standard SQL with additional Microsoft-specific features. It is designed for enterprise environments and handles mixed workloads well. Licensing can make it more expensive, although free editions are available.
+
+### Implications and Conclusion
+
+The main consideration when choosing a database is balancing performance, scalability and cost against the application's requirements. Differences in SQL syntax can make migrating between systems more difficult, meaning developers need to consider compatibility when building applications. Database administrators also need to manage permissions, performance, maintenance and configuration.
+
+Overall, PostgreSQL and MySQL are good cost-effective options for general applications, whereas Redshift is better suited to large-scale data warehousing and SQL Server is commonly used in enterprise environments.
    
 
 
