@@ -62,6 +62,7 @@ SQL commands are divided into five main categories:
   - `GRANT` – Gives users permissions to access or modify database objects.
   - `REVOKE` – Removes previously granted permissions.
 
+## Apply Tasks:
 
 ### SQL Standards and Database Comparison
 
@@ -80,7 +81,38 @@ Different database systems use SQL, but each has its own variations and extensio
 The main consideration when choosing a database is balancing performance, scalability and cost against the application's requirements. Differences in SQL syntax can make migrating between systems more difficult, meaning developers need to consider compatibility when building applications. Database administrators also need to manage permissions, performance, maintenance and configuration.
 
 Overall, PostgreSQL and MySQL are good cost-effective options for general applications, whereas Redshift is better suited to large-scale data warehousing and SQL Server is commonly used in enterprise environments.
-   
 
 
+### SQL Consolidation Exercises – SQLite
 
+**Exercise 1 – Recent Customers**
+
+Retrieve the 10 most recently registered customers, displaying their full name, email address and the number of days since they joined.
+
+<img width="1187" height="779" alt="image" src="https://github.com/user-attachments/assets/e2d60ded-3adb-4be8-8785-9314c2c7f680" />
+
+
+**Exercise 2 – Upcoming Flights**
+
+Retrieve all flights departing from London Heathrow (LHR) within the next 14 days. Format the departure date as YYYY-MM-DD and calculate the flight duration in minutes.
+
+<img width="1193" height="703" alt="image" src="https://github.com/user-attachments/assets/c889176b-6dcc-49da-9df9-9ff525a2c5a2" />
+
+
+**Exercise 3 – Unpaid Bookings**
+
+Identify bookings where the total amount paid is zero. Combine information from the bookings, customers, flights and payments tables using JOINs. Display the customer's email, flight number and the number of days since the booking was made.
+
+<img width="1228" height="800" alt="image" src="https://github.com/user-attachments/assets/36881c02-a89d-416a-a5d2-4cf5a5b68da0" />
+
+
+**Exercise 4 – Customer Email Filtering**
+
+Find customers whose email addresses end in either @gmail.com or @outlook.com. Display their details and sort the results alphabetically by last name, followed by first name.
+
+<img width="1215" height="799" alt="image" src="https://github.com/user-attachments/assets/02301832-18ba-4c5d-8151-83d456131258" />
+
+
+### Reflection
+
+These exercises helped develop my understanding of SQL in SQLite, particularly how to retrieve specific information and manipulate query results. I practised using filtering, sorting, date functions, JOINs and aggregate functions such as SUM(). I also gained experience combining data from multiple tables to answer more complex questions, which is useful when working with real-world datasets.
