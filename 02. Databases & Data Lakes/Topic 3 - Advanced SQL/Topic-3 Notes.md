@@ -54,3 +54,15 @@ These three SQL clauses work together but perform different jobs.
 - Filters the results after the groups have been created.
 - Particularly useful when filtering using aggregate functions.
 - Example: HAVING COUNT(*) > 2
+
+## What is a View
+A **view** is a virtual table created from a saved SQL query. It displays data from existing tables without storing a separate copy of the data.
+
+## What is an Index
+An **index** is a data structure that helps SQL find records faster, improving query performance. However, indexes require additional storage and can slow down data modifications.
+
+## What is a virtual view
+Used in databases, Computed only on-demand – slow at runtime and always up to date
+
+## What is a Materialized view 
+Used in data warehouses, Precomputed offline – fast at runtime and may have stale (old) data
