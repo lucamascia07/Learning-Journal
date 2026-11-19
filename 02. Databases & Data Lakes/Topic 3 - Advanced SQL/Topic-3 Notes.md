@@ -28,3 +28,68 @@ In SQL a Subquery can be simply defined as a query within another query. In othe
 2. Subqueries can be used with SELECT, UPDATE, INSERT, DELETE statements along with expression operator. It could be equality operator or comparison operator such as =, >, =, <= and Like operator. clause
 3. The subquery generally executes first, and its output is used to complete the query condition for the main or outer query.
 4. Subquery must be enclosed in parentheses.
+
+
+## Understanding WHERE, GROUP BY and HAVING
+
+These three SQL clauses work together but perform different jobs.
+
+### Order of operation
+
+**1. WHERE – Filters individual rows**
+- Filters records before they are grouped.
+- Used to specify conditions on individual columns.
+- Example: `WHERE role = 'Engineer'`
+
+⬇️
+
+**2. GROUP BY – Groups rows together**
+- Combines records that share the same value in a specified column.
+- Commonly used with aggregate functions such as `COUNT
+
+⬇️
+
+3. HAVING – Filters groups
+
+Filters the results after the groups have been created.
+
+Particularly useful when filtering using aggregate functions.
+
+Example: HAVING COUNT(*) > 2
+
+Example
+
+Find roles that have more than 2 employees:
+
+SELECT role, COUNT(*)
+FROM employees
+GROUP BY role
+HAVING COUNT(*) > 2;
+
+Key differences
+
+Clause
+
+Purpose
+
+WHERE
+
+Filters individual rows
+
+GROUP BY
+
+Groups matching records
+
+HAVING
+
+Filters grouped results
+
+Remember:
+
+WHERE = Filter before grouping.
+
+GROUP BY = Create groups.
+
+HAVING = Filter after grouping.
+
+You can also use WHERE and HAVING in the same query. WHERE first filters the individual records, GROUP BY creates the groups, and HAVING filters those groups.
