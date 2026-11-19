@@ -49,7 +49,7 @@ These three SQL clauses work together but perform different jobs.
 
 ⬇️
 
-**3. HAVING – Filters groups
+**3. HAVING – Filters groups**
 
 Filters the results after the groups have been created.
 
